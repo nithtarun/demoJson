@@ -1,0 +1,17 @@
+[
+  { 
+    "id": 1,
+    "name": "Mohit Kumar",
+    "bd": "22/07/1996"
+  },
+  { 
+    "id": 2,
+    "name": "Chahat Kumari",
+    "bd": "22/07/1995"
+  },
+  { 
+    "id": 3,
+    "name": "Navdeep Kumar",
+    "bd": "22/10/1996"
+  }
+]
